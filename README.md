@@ -58,7 +58,7 @@ File Name| Description<br>
 # 🚀 Getting Started
 
 # Clone the repository
-git clone https://github.com/Dipika-J/customer_behavior_analysis.git
+git clone https://github.com/dhivakar2006/customer_behavior_analysis.git
 
 # Install required libraries
 pip install pandas numpy matplotlib seaborn
